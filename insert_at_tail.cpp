@@ -36,6 +36,7 @@ int op;
 cout<<"option 1 : insert at tail"<<endl;
 cout<<"option 2 : print"<<endl;
 cout<<"option 3 : terminate"<<endl;
+cout<<"option 3 : terminate"<<endl;
 cin>> op;
 if (op==1){
     int v;
